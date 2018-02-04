@@ -1,0 +1,10 @@
+C:\Users\Tomek\source\repos\KalkulatorDelegacji\KalkulatorDelegacji\bin\Debug\KalkulatorDelegacji.exe.config
+C:\Users\Tomek\source\repos\KalkulatorDelegacji\KalkulatorDelegacji\bin\Debug\KalkulatorDelegacji.exe
+C:\Users\Tomek\source\repos\KalkulatorDelegacji\KalkulatorDelegacji\bin\Debug\KalkulatorDelegacji.pdb
+C:\Users\Tomek\source\repos\KalkulatorDelegacji\KalkulatorDelegacji\obj\Debug\KalkulatorDelegacji.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\source\repos\KalkulatorDelegacji\KalkulatorDelegacji\obj\Debug\KalkulatorDelegacji.Form1.resources
+C:\Users\Tomek\source\repos\KalkulatorDelegacji\KalkulatorDelegacji\obj\Debug\KalkulatorDelegacji.Properties.Resources.resources
+C:\Users\Tomek\source\repos\KalkulatorDelegacji\KalkulatorDelegacji\obj\Debug\KalkulatorDelegacji.csproj.GenerateResource.Cache
+C:\Users\Tomek\source\repos\KalkulatorDelegacji\KalkulatorDelegacji\obj\Debug\KalkulatorDelegacji.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\source\repos\KalkulatorDelegacji\KalkulatorDelegacji\obj\Debug\KalkulatorDelegacji.exe
+C:\Users\Tomek\source\repos\KalkulatorDelegacji\KalkulatorDelegacji\obj\Debug\KalkulatorDelegacji.pdb
